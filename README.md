@@ -57,3 +57,7 @@ When the profiles option is selected from the dashboard, various user profiles w
 * The admin can edit the Number of Leads Generated & the Reward Points of the user, Badge of the user & the Green Tick Mark beside the user name.
 
 * The admin can also give some bonus to the any user by clicking on the Add Bonus button.
+
+
+### Screenshots
+<img src="https://github.com/sbis04/synd_innovate_prototype/blob/master/Admin%20Screenshot/Admin_1.png" height="280" alt="Screenshot"/> | <img src="https://github.com/sbis04/synd_innovate_prototype/blob/master/Admin%20Screenshot/Admin_2.png" height="280" alt="Screenshot"/> | <img src="https://github.com/sbis04/synd_innovate_prototype/blob/master/Admin%20Screenshot/Admin_3.png" height="280" alt="Screenshot"/> | <img src="https://github.com/sbis04/synd_innovate_prototype/blob/master/Admin%20Screenshot/Admin_4.png" height="280" alt="Screenshot"/> | <img src="https://github.com/sbis04/synd_innovate_prototype/blob/master/Admin%20Screenshot/Admin_5.png" height="280" alt="Screenshot"/>
